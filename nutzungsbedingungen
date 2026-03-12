@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nutzungsbedingungen – Rephraseit</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.7;
+      color: #1a1a1a;
+      background: #f9f9f9;
+      padding: 40px 20px;
+    }
+    .container {
+      max-width: 740px;
+      margin: 0 auto;
+      background: #ffffff;
+      border-radius: 12px;
+      padding: 48px 56px;
+      box-shadow: 0 2px 16px rgba(0,0,0,0.07);
+    }
+    .app-badge {
+      display: inline-block;
+      background: #f0f0f0;
+      color: #555;
+      font-size: 13px;
+      padding: 4px 12px;
+      border-radius: 20px;
+      margin-bottom: 16px;
+    }
+    h1 {
+      font-size: 28px;
+      font-weight: 700;
+      color: #111;
+      margin-bottom: 6px;
+    }
+    .subtitle {
+      color: #888;
+      font-size: 14px;
+      margin-bottom: 40px;
+      padding-bottom: 32px;
+      border-bottom: 1px solid #ebebeb;
+    }
+    h2 {
+      font-size: 17px;
+      font-weight: 700;
+      color: #111;
+      margin-top: 36px;
+      margin-bottom: 10px;
+    }
+    p {
+      margin-bottom: 14px;
+      color: #333;
+    }
+    ul {
+      margin: 10px 0 14px 20px;
+      color: #333;
+    }
+    ul li {
+      margin-bottom: 6px;
+    }
+    a {
+      color: #0071e3;
+      text-decoration: none;
+    }
+    a:hover { text-decoration: underline; }
+    .info-box {
+      background: #f0f7ff;
+      border-left: 3px solid #0071e3;
+      border-radius: 6px;
+      padding: 12px 16px;
+      margin: 16px 0;
+      font-size: 14px;
+      color: #003d80;
+    }
+    .footer {
+      margin-top: 48px;
+      padding-top: 20px;
+      border-top: 1px solid #ebebeb;
+      font-size: 13px;
+      color: #999;
+      text-align: right;
+    }
+    @media (max-width: 600px) {
+      .container { padding: 28px 24px; }
+      h1 { font-size: 22px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="app-badge">Rephraseit</div>
+    <h1>Nutzungsbedingungen</h1>
+    <p class="subtitle">Zuletzt aktualisiert: März 2026</p>
+
+    <h2>1. Geltungsbereich</h2>
+    <p>Diese Nutzungsbedingungen regeln die Nutzung der App „Rephraseit" (nachfolgend „App"), die von Dominik Schmidt, Kunigundenstraße 23i, 91207 Lauf an der Pegnitz, Deutschland (nachfolgend „Anbieter") bereitgestellt wird.</p>
+    <p>Mit der Installation und Nutzung der App stimmen Sie diesen Nutzungsbedingungen zu. Falls Sie diesen Bedingungen nicht zustimmen, dürfen Sie die App nicht nutzen.</p>
+
+    <h2>2. Leistungsbeschreibung</h2>
+    <p>Rephraseit ist eine App, die es Nutzern ermöglicht, Texte mithilfe von Künstlicher Intelligenz umzuschreiben und umzuformulieren. Die App nutzt hierfür die API-Schnittstelle von OpenAI.</p>
+    <p>Der Anbieter behält sich vor, den Funktionsumfang der App jederzeit zu ändern, zu erweitern oder einzuschränken.</p>
+
+    <h2>3. Nutzungsvoraussetzungen</h2>
+    <p>Für die Nutzung der App ist eine aktive Internetverbindung erforderlich. Die App steht ab iOS 16 zur Verfügung. Der Anbieter übernimmt keine Gewähr für eine ununterbrochene Verfügbarkeit der App oder der zugrundeliegenden KI-Dienste.</p>
+
+    <h2>4. Erlaubte und untersagte Nutzung</h2>
+    <p>Die App darf ausschließlich für legale, persönliche oder gewerbliche Zwecke genutzt werden. Folgende Nutzungen sind ausdrücklich untersagt:</p>
+    <ul>
+      <li>Eingabe von Inhalten, die gegen geltendes Recht verstoßen (z. B. strafbare, diskriminierende oder volksverhetzende Inhalte)</li>
+      <li>Eingabe von personenbezogenen Daten Dritter ohne deren Einwilligung</li>
+      <li>Nutzung der App zur Erstellung von Spam, Phishing-Inhalten oder irreführenden Texten</li>
+      <li>Versuche, die App zu manipulieren, zu reverse-engineeren oder unbefugten Zugriff auf zugrundeliegende Systeme zu erlangen</li>
+      <li>Automatisierte Massenabfragen ohne ausdrückliche Genehmigung des Anbieters</li>
+    </ul>
+
+    <h2>5. Verantwortlichkeit für Inhalte</h2>
+    <p>Der Nutzer ist allein verantwortlich für die Inhalte, die er in die App eingibt. Der Anbieter übernimmt keine Haftung für eingegebene Texte oder die durch die KI generierten Ergebnisse.</p>
+    <div class="info-box">
+      Die durch die KI generierten Texte sind maschinell erstellt. Der Anbieter übernimmt keine Gewähr für deren Richtigkeit, Vollständigkeit oder Eignung für einen bestimmten Zweck. Nutzer sollten KI-generierte Inhalte stets eigenverantwortlich prüfen, bevor sie diese verwenden.
+    </div>
+
+    <h2>6. Drittanbieter – OpenAI</h2>
+    <p>Die App nutzt die API von OpenAI, L.L.C. (San Francisco, CA, USA) zur Textverarbeitung. Durch die Nutzung der App stimmen Sie auch den Nutzungsbedingungen von OpenAI zu:</p>
+    <ul>
+      <li><a href="https://openai.com/policies/usage-policies" target="_blank">OpenAI Nutzungsbedingungen</a></li>
+      <li><a href="https://openai.com/policies/privacy-policy" target="_blank">OpenAI Datenschutzerklärung</a></li>
+    </ul>
+    <p>Der Anbieter hat keinen Einfluss auf die Verarbeitung von Daten durch OpenAI, soweit diese über die vertraglichen Vereinbarungen hinausgeht.</p>
+
+    <h2>7. Apple App Store</h2>
+    <p>Der Download und die Installation der App erfolgen über den Apple App Store. Es gelten zusätzlich die Nutzungsbedingungen von Apple. Im Verhältnis zwischen Apple und dem Anbieter ist der Anbieter allein verantwortlich für die App und deren Inhalte.</p>
+
+    <h2>8. Gewährleistung und Haftung</h2>
+    <p>Der Anbieter stellt die App „wie besehen" zur Verfügung und übernimmt keine Garantie für eine fehlerfreie, ununterbrochene oder sichere Nutzung. Eine Haftung des Anbieters ist – soweit gesetzlich zulässig – auf Vorsatz und grobe Fahrlässigkeit beschränkt.</p>
+    <p>Der Anbieter haftet nicht für Schäden, die durch die Nutzung oder Nichtnutzbarkeit der App entstehen, es sei denn, diese beruhen auf vorsätzlichem oder grob fahrlässigem Verhalten des Anbieters.</p>
+
+    <h2>9. Geistiges Eigentum</h2>
+    <p>Alle Rechte an der App, einschließlich Design, Code und Markenzeichen, liegen beim Anbieter. Die App darf nicht kopiert, verändert oder anderweitig ohne Zustimmung des Anbieters genutzt werden.</p>
+    <p>Die durch die KI generierten Textergebnisse dürfen vom Nutzer frei verwendet werden. Der Anbieter erhebt keine Ansprüche auf die erzeugten Inhalte.</p>
+
+    <h2>10. Änderungen der Nutzungsbedingungen</h2>
+    <p>Der Anbieter behält sich vor, diese Nutzungsbedingungen jederzeit anzupassen. Über wesentliche Änderungen wird im Rahmen eines App-Updates informiert. Die fortgesetzte Nutzung der App nach einer Änderung gilt als Zustimmung zu den neuen Bedingungen.</p>
+
+    <h2>11. Anwendbares Recht und Gerichtsstand</h2>
+    <p>Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts. Für Verbraucher innerhalb der EU gilt ergänzend das Recht des jeweiligen Wohnsitzlandes, soweit dieses für den Verbraucher günstiger ist.</p>
+    <p>Gerichtsstand ist, soweit gesetzlich zulässig, Nürnberg.</p>
+
+    <h2>12. Kontakt</h2>
+    <p>Bei Fragen zu diesen Nutzungsbedingungen wenden Sie sich bitte an:</p>
+    <p>
+      <strong>Dominik Schmidt</strong><br>
+      Kunigundenstraße 23i, 91207 Lauf an der Pegnitz<br>
+      E-Mail: <a href="mailto:domi_schmidt95@icloud.com">domi_schmidt95@icloud.com</a>
+    </p>
+
+    <div class="footer">Stand: März 2026 &nbsp;·&nbsp; Rephraseit von Dominik Schmidt</div>
+  </div>
+</body>
+</html>
